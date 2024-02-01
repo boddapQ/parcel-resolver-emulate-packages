@@ -1,0 +1,24 @@
+{
+  "name": "parcel-resolver-emulate-packages",
+  "version": "2.2.0",
+  "description": "Parcel plugin that allows you to emulate packages.",
+  "main": "index.js",
+  "engines": {
+    "parcel": ">=2.9.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "parcel",
+    "plugin"
+  ],
+  "author": "odapX",
+  "license": "MIT",
+  "dependencies": {
+    "@parcel/plugin": "^2.10.3"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
